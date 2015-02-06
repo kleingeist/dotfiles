@@ -1,0 +1,12 @@
+[color]
+	ui = auto
+[user]
+	name = jo
+	email = kleingeist@googlemail.com
+[core]
+	excludesfile = ~/.gitignore_global
+[push]
+	default = current
+# Allow local customizations in the .gitconfig_local file
+[include]
+	ath = ~/.gitconfig_local
