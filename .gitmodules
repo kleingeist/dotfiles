@@ -3,7 +3,7 @@
 	url = https://github.com/anishathalye/dotbot
 [submodule "vim"]
 	path = vim
-	url = git@github.com:kleingeist/dotvim.git
+	url =https://github.com/kleingeist/dotvim.git
 [submodule "prezto"]
 	path = prezto
 	url = https://github.com/kleingeist/prezto.git
