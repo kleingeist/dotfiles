@@ -9,4 +9,4 @@
 	default = current
 # Allow local customizations in the .gitconfig_local file
 [include]
-	ath = ~/.gitconfig_local
+	path = ~/.gitconfig_local
